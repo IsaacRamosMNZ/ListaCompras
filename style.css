@@ -14,12 +14,12 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    color: #fff;
+    color: #409936;
 }
 
 
 .container {
-    background-color: rgba(43, 2, 53, 0.9);
+    background-color: rgba(9, 9, 9, 0.9);
     padding: 20px;
     border-radius: 40px;
     text-align: center;
@@ -33,7 +33,7 @@ h1 {
     font-size: 2rem;
 }
 
-/* Formulário */
+
 form {
     margin-bottom: 20px;
 }
